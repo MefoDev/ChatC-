@@ -1,0 +1,10 @@
+E:\LapTrinhWin\Chat_Nguyen\Chat_Nguyen\bin\Debug\Chat_Nguyen.exe.config
+E:\LapTrinhWin\Chat_Nguyen\Chat_Nguyen\bin\Debug\Chat_Nguyen.exe
+E:\LapTrinhWin\Chat_Nguyen\Chat_Nguyen\bin\Debug\Chat_Nguyen.pdb
+E:\LapTrinhWin\Chat_Nguyen\Chat_Nguyen\obj\Debug\Client_Nguyen.csproj.AssemblyReference.cache
+E:\LapTrinhWin\Chat_Nguyen\Chat_Nguyen\obj\Debug\Chat_Nguyen.frmClient.resources
+E:\LapTrinhWin\Chat_Nguyen\Chat_Nguyen\obj\Debug\Chat_Nguyen.Properties.Resources.resources
+E:\LapTrinhWin\Chat_Nguyen\Chat_Nguyen\obj\Debug\Client_Nguyen.csproj.GenerateResource.cache
+E:\LapTrinhWin\Chat_Nguyen\Chat_Nguyen\obj\Debug\Client_Nguyen.csproj.CoreCompileInputs.cache
+E:\LapTrinhWin\Chat_Nguyen\Chat_Nguyen\obj\Debug\Chat_Nguyen.exe
+E:\LapTrinhWin\Chat_Nguyen\Chat_Nguyen\obj\Debug\Chat_Nguyen.pdb
